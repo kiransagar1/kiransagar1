@@ -17,18 +17,20 @@
 
 
 <br><br>
-![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
+
 
 ## <p align="center"><h4 align="center"><samp> An Python Developer, An Open Source Contributor, Youtuber  & A Competitive Programmer, online Trainer </samp></h4></p>
 
 <div>
 <img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
   <br>
+  
 - 🔭 I’m currently working on Aiorbitech
 - 🌱 I’m currently learning Artificial Intelligence
 - 👯 I’m looking to collaborate on Youtube
 - 💬 Ask me about computer vision
 - 📫 How to reach me: pythonlife telegram group
+  <br>
 </div>
 
 ##
@@ -99,7 +101,7 @@
   
 <p align="center">
   <a href="https://github.com/kiransagar1"><span>
-    <img height="48%" src="https://github-readme-stats.vercel.app/api?username=kiransagar1r&count_private=true&show_icons=true&theme=tokyonight&&include_all_commits=true"/>
+    <img height="48%" src="https://github-readme-stats.vercel.app/api?username=kiransagar1&count_private=true&show_icons=true&theme=tokyonight&&include_all_commits=true"/>
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amandewatnitrr&theme=tokyonight" />
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amandewatnitrr&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=tokyonight"/>
     </span></a>
