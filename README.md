@@ -1,5 +1,4 @@
 
-<img src="https://github-readme-stats.vercel.app/api?username=kiransagar1&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 # Hey Everyone! I'm [Kiransagar](https://github.com/kiransagar1) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
 <br><br>
 
@@ -100,7 +99,7 @@
   
 <p align="center">
   <a href="https://github.com/kiransagar1"><span>
-    <img height="48%" src="https://github-readme-stats.vercel.app/api?username=amandewatnitrr&count_private=true&show_icons=true&theme=tokyonight&&include_all_commits=true"/>
+    <img height="48%" src="https://github-readme-stats.vercel.app/api?username=kiransagar1r&count_private=true&show_icons=true&theme=tokyonight&&include_all_commits=true"/>
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amandewatnitrr&theme=tokyonight" />
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amandewatnitrr&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=tokyonight"/>
     </span></a>
@@ -116,7 +115,7 @@
 </p>
 
 ### 📈 GitHub Activity:
-  <a href="https://github.com/kiransagar1/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=amandewatnitrr&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/kiransagar1/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kiransagar1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 <p align="center">
 <a href="https://profile.codersrank.io/user/amandewatnitrr"><img width="494px" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=amandewatnitrr&layout=horizontal&badges=3&show-avatar=true&min-width=494px&branding=false&style=--bg-color:%23fff;--border:1px%20solid%23e4e2e2;--border-radius:4px;--header-padding:20px;--header-bg-color:%232f80ed;--name-font-size:18px;--name-font-weight:bold;--rank-font-size:14px;--preloader-color:%232f80ed;--badges-padding:20px;--badge-box-shadow:none;--badge-border:1px%20solid%23e4e2e2;--badge-rank-font-size:12px;--badge-location-font-size:12px;--badge-padding:10px;--badge-margin:10px;--badge-icon-size:16px;--badge-technology-font-size:14px;--badge-technology-font-weight:normal)" /></a>
