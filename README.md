@@ -25,11 +25,11 @@
 <img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
   <br>
   
-- 🔭 I’m currently working on Aiorbitech
+- 🔭 I’m currently working on Codingrad
 - 🌱 I’m currently learning Artificial Intelligence
 - 👯 I’m looking to collaborate on Youtube
-- 💬 Ask me about computer vision
-- 📫 How to reach me: pythonlife telegram group
+- 💬 Ask me about Computer Vision
+- 📫 How to reach me: pythonlifekiran@gmail.com
   <br>
 </div>
 
