@@ -5,7 +5,7 @@
 
 ### Founder & CEO | PythonLife
 
-**Technology Entrepreneur • Software Development Educator • AI & Data Science Enthusiast**
+**Technology Entrepreneur • Software Development Educator • AI & Data Science & GenAI Trainer**
 
 *Building Technology. Empowering Developers. Creating Opportunities.*
 
