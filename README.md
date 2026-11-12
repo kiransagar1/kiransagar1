@@ -1,8 +1,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:2563EB&height=220&section=header&text=KIRAN%20SAGAR&fontSize=55&fontColor=FFFFFF&fontAlignY=36&desc=Founder%20%26%20CEO%20%40%20PythonLife&descSize=20&descAlignY=58" width="100%" alt="Kiran Sagar Profile Banner"/>
-
 # Kiran Sagar
 
 ### Founder & CEO | PythonLife
@@ -54,24 +52,13 @@ My mission is to make programming and emerging technology education accessible t
 <table>
 <tr>
 <td align="center">
-<h2>3,500+</h2>
-<b>GitHub Followers</b>
+<h2>500K+</h2>
+<b>YOUTUBE</b>
 </td>
 <td align="center">
-<h2>109</h2>
-<b>Public Repositories</b>
-</td>
-</tr>
-<tr>
-<td align="center">
-<h2>22,700+</h2>
-<b>LinkedIn Followers</b>
-</td>
-<td align="center">
-<h2>1,191</h2>
-<b>LinkedIn Posts</b>
-</td>
-</tr>
+<h2>400K+</h2>
+<b>INSTAGRAM</b>
+</td></tr>
 </table>
 
 ### PythonLife — Organizational Impact
@@ -143,7 +130,7 @@ My mission is to make programming and emerging technology education accessible t
 
 🌐 https://www.pythonlife.in/
 
-📱 https://pythonlifeapp.com/
+📱 https://pythonlifedu.tech/
 
 ---
 
@@ -255,41 +242,18 @@ I maintain programming repositories and learning resources for developers, stude
 | [Python Coding Questions](https://github.com/kiransagar1/Python-100-coding-questions-) | Coding & Problem Solving |
 | [SQL Learning Material](https://github.com/kiransagar1/sql-Material) | SQL & Database Learning |
 
----
 
-## 📈 GitHub Analytics
-
-<div align="center">
-
-### GitHub Statistics
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kiransagar1&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiransagar1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
-
-### Contribution Streak
-
-<img width="75%" src="https://streak-stats.demolab.com?user=kiransagar1&theme=tokyonight&hide_border=true" alt="Contribution Streak"/>
-
-### Contribution Graph
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kiransagar1&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
-
-### GitHub Trophies
-
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=kiransagar1&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8" alt="GitHub Trophies"/>
-
-</div>
-
----
 
 ## 🎓 Education & Certifications
 
 **Education**
+- MSC ComputerScience
 - Osmania University — 2020–2022
+
 
 **Certifications**
 - Data Science with Python — SkillUp
+- Python Advanced — HackerRank
 - Python Basic — HackerRank
 
 ---
@@ -331,16 +295,12 @@ I maintain programming repositories and learning resources for developers, stude
 <a href="https://www.pythonlife.in/">
 <img src="https://img.shields.io/badge/PythonLife-Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
-<a href="https://pythonlifeapp.com/">
+<a href="https://pythonlifedu.tech/">
 <img src="https://img.shields.io/badge/PythonLife-Mobile%20App-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </a>
 </p>
 
-<p>
-<a href="mailto:pythonlifekiran@gmail.com">
-<img src="https://img.shields.io/badge/Email-pythonlifekiran%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
+
 
 ---
 
