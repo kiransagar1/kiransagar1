@@ -13,8 +13,8 @@
 <a href="https://www.pythonlife.in/"><img src="https://img.shields.io/badge/Website-PythonLife-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/kiran-sagar-a00a761b2/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/kiransagar1"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://pythonlifeapp.com/"><img src="https://img.shields.io/badge/PythonLife-App-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
-<a href="mailto:pythonlifekiran@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://pythonlifeedu.tech/"><img src="https://img.shields.io/badge/PythonLife-App-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+<a href="mailto:pythonlifetelugu@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=kiransagar1&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge" alt="Profile Views"/>
