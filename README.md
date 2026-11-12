@@ -17,7 +17,7 @@ Building technology skills. Empowering developers. Creating opportunities.
  <a href="https://github.com/kiransagar1">
  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
  </a>
- <a href="https://pythonlifeapp.com/">
+ <a href="https://pythonlifeedu.tech">
  <img src="https://img.shields.io/badge/PythonLife-App-3776AB?style=for-the-badge&logo=python&logoColor=white" />
  </a>
 </p>
