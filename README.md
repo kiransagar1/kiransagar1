@@ -1,208 +1,356 @@
-<!-- ===================== HEADER ===================== -->
 
 <div align="center">
 
-KIRAN SAGAR
-Founder & CEO @ PythonLife | Software Development & Technology Educator
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:2563EB&height=220&section=header&text=KIRAN%20SAGAR&fontSize=55&fontColor=FFFFFF&fontAlignY=36&desc=Founder%20%26%20CEO%20%40%20PythonLife&descSize=20&descAlignY=58" width="100%" alt="Kiran Sagar Profile Banner"/>
 
-Building technology skills. Empowering developers. Creating opportunities.
+# Kiran Sagar
+
+### Founder & CEO | PythonLife
+
+**Technology Entrepreneur • Software Development Educator • AI & Data Science Enthusiast**
+
+*Building Technology. Empowering Developers. Creating Opportunities.*
 
 <p>
- <a href="https://www.pythonlife.in/">
- <img src="https://img.shields.io/badge/Website-PythonLife-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
- </a>
- <a href="https://www.linkedin.com/in/kiran-sagar-a00a761b2/">
- <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
- </a>
- <a href="https://github.com/kiransagar1">
- <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
- </a>
- <a href="https://pythonlifeedu.tech">
- <img src="https://img.shields.io/badge/PythonLife-App-3776AB?style=for-the-badge&logo=python&logoColor=white" />
- </a>
+<a href="https://www.pythonlife.in/"><img src="https://img.shields.io/badge/Website-PythonLife-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/kiran-sagar-a00a761b2/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/kiransagar1"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://pythonlifeapp.com/"><img src="https://img.shields.io/badge/PythonLife-App-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+<a href="mailto:pythonlifekiran@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=kiransagar1&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/kiransagar1?style=for-the-badge&logo=github&label=FOLLOWERS&color=181717" alt="GitHub Followers"/>
+<img src="https://img.shields.io/github/stars/kiransagar1?affiliations=OWNER&style=for-the-badge&logo=github&label=STARS&color=F59E0B" alt="GitHub Stars"/>
 
 </div>
 
-👨‍💻 About Me
+---
 
-I am Kiran Sagar, Founder and CEO of PythonLife, a Telugu-first technology education platform focused on making programming, software development, and emerging technologies accessible through practical learning.
+## 👨‍💻 About Me
+
+I'm **Kiran Sagar**, Founder and CEO of [PythonLife](https://www.pythonlife.in/), a Telugu-first technology education platform established in 2020.
 
 I work at the intersection of technology education, software development, Artificial Intelligence, and developer community building.
 
-My focus is on creating accessible technical learning resources, developing practical programming knowledge, and helping aspiring developers understand the technologies used in the software industry.
+My mission is to make programming and emerging technology education accessible through practical learning, technical resources, and career-oriented knowledge sharing.
 
-🏢 Founder & CEO of PythonLife
-💻 Software Development & Technology Educator
-🐍 Interested in Python, Java and Full Stack Development
-🤖 Exploring Artificial Intelligence and Generative AI
-📊 Interested in Data Science and Machine Learning
-🌱 Passionate about developer education and open-source communities
-🇮🇳 Building technology learning opportunities for Telugu-speaking students
-📊 Professional Highlights
+- 🏢 Founder & CEO — PythonLife
+- 💻 Software Development & Technology Educator
+- 🐍 Python, Java and Full Stack Development
+- 🤖 Artificial Intelligence & Generative AI
+- 📊 Data Science & Machine Learning
+- 🌱 Developer Education & Open-Source Communities
+- 🇮🇳 Empowering Telugu-speaking technology learners
+
+---
+
+## 📊 Professional Impact
 
 <div align="center">
 
-Metric	Publicly Reported Count
-GitHub Followers	3,500+
-Public GitHub Repositories	109
-LinkedIn Followers	22,700+
-LinkedIn Posts	1,191
-PythonLife Happy Students	90K+
-PythonLife Batches Conducted	300+
-PythonLife Students Placed	48K+
-PythonLife Telugu Community	1M+
-Free Software Courses	100+
+### Personal Digital Presence
+
+<table>
+<tr>
+<td align="center">
+<h2>3,500+</h2>
+<b>GitHub Followers</b>
+</td>
+<td align="center">
+<h2>109</h2>
+<b>Public Repositories</b>
+</td>
+</tr>
+<tr>
+<td align="center">
+<h2>22,700+</h2>
+<b>LinkedIn Followers</b>
+</td>
+<td align="center">
+<h2>1,191</h2>
+<b>LinkedIn Posts</b>
+</td>
+</tr>
+</table>
+
+### PythonLife — Organizational Impact
+
+<table>
+<tr>
+<td align="center">
+<h1>90K+</h1>
+<b>Happy Students</b>
+</td>
+<td align="center">
+<h1>300+</h1>
+<b>Batches Conducted</b>
+</td>
+</tr>
+<tr>
+<td align="center">
+<h1>48K+</h1>
+<b>Students Placed</b>
+</td>
+<td align="center">
+<h1>1M+</h1>
+<b>Telugu Community</b>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+<h1>100+</h1>
+<b>Free Software Courses</b>
+</td>
+</tr>
+</table>
+
+<sub>Personal metrics are approximate historical public snapshots. PythonLife figures are organization-published claims and are not independently audited.</sub>
 
 </div>
 
-GitHub and LinkedIn figures are approximate public profile snapshots. PythonLife impact figures are organization-published claims, not independently audited figures.
+---
 
-🏢 About PythonLife
+## 🏢 About PythonLife
+
+<div align="center">
 
 <a href="https://www.pythonlife.in/">
- <img src="https://img.shields.io/badge/PythonLife-Telugu%20Technology%20Education-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PythonLife-Telugu%20First%20EdTech-2563EB?style=for-the-badge&logo=python&logoColor=white"/>
 </a>
 
-PythonLife is a Telugu-first EdTech platform established in 2020, focused on simplifying technology education through structured courses, practical projects, programming resources, and career-oriented training.
+### Learn Technology • Build Skills • Create Opportunities
 
-Our Technical Learning Domains
-Python Programming
-Java Development
-Full Stack Development
-SQL and Database Technologies
-Data Science and Data Analytics
-Artificial Intelligence
-Machine Learning
-Generative AI and Agentic AI
-DevOps and DevSecOps
-Power BI
+</div>
 
-Our mission: Making quality technology education accessible, practical, and career-focused for Telugu-speaking learners.
+[PythonLife](https://www.pythonlife.in/) is a Telugu-first EdTech platform focused on simplifying technology education through structured courses, practical projects, programming resources, and career-oriented training.
 
-🌐 Website: https://www.pythonlife.in/
+**Learning Domains**
 
-🛠️ Technical Skills & Technologies
-Programming Languages
+| Domain | Technologies |
+|---|---|
+| Programming | Python, Java, JavaScript |
+| Web Development | HTML, CSS, Full Stack |
+| Backend | Django, Flask, REST APIs |
+| Data Science | NumPy, Pandas, Analytics |
+| Artificial Intelligence | AI, Machine Learning |
+| Generative AI | GenAI, AI Applications |
+| Databases | SQL, MySQL |
+| Analytics | Power BI |
+| Engineering | DevOps, DevSecOps |
 
-<p>
- <img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
-</p>
+**Our Vision:** Making quality technology education accessible, practical, and career-focused for Telugu-speaking learners.
 
-Backend & Web Development
+🌐 https://www.pythonlife.in/
 
-<p>
- <img src="https://skillicons.dev/icons?i=django,flask,fastapi,nodejs,react" />
-</p>
+📱 https://pythonlifeapp.com/
 
-Data Science & Artificial Intelligence
+---
 
-<p>
- <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" />
-</p>
+## 🛠️ Technical Skills & Technology Stack
 
-Areas of interest: Machine Learning, Generative AI, Computer Vision, Object Detection, Data Analytics, NumPy, Pandas and Data Visualization.
+### 💻 Programming Languages
 
-Databases
+<div align="center">
 
-<p>
- <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css&theme=dark" alt="Programming Languages"/>
 
-Developer Tools & Platforms
+</div>
 
-<p>
- <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,docker,linux" />
-</p>
+### ⚙️ Backend & Web Development
 
-🚀 Technical Projects
-1. Third Eye — Assistive Computer Vision Project
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=django,flask,fastapi,nodejs,react&theme=dark" alt="Web Development Technologies"/>
+
+</div>
+
+### 🤖 Artificial Intelligence & Data Science
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" alt="AI Technologies"/>
+
+</div>
+
+**Focus Areas:** Machine Learning • Generative AI • Computer Vision • Object Detection • NumPy • Pandas • Data Visualization
+
+### 🗄️ Databases
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" alt="Database Technologies"/>
+
+</div>
+
+### 🔧 Developer Tools & Platforms
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,docker,linux&theme=dark" alt="Developer Tools"/>
+
+</div>
+
+---
+
+## 🚀 Featured Technical Projects
+
+### 1. 👁️ Third Eye — Assistive Computer Vision
 
 An assistive technology project designed to detect and classify objects from live camera input and provide audio feedback to support visually impaired users.
 
-Technical Focus:
+**Technical Areas**
 
-Computer Vision
-Object Detection
-Machine Learning
-Real-Time Image Processing
-Assistive Technology
-2. Real-Time Face & Skin Texture Attendance Tracking System
+- Computer Vision
+- Object Detection
+- Machine Learning
+- Real-Time Image Processing
+- Assistive Technology
+
+**Objective:** Explore AI-powered visual assistance to improve accessibility.
+
+### 2. 🧠 Real-Time Face & Skin Texture Attendance Tracking System
 
 A computer vision-based attendance management project exploring facial recognition and skin texture analysis for automated identification and attendance recording.
 
-Technical Focus:
+**Technical Areas**
 
-Image Processing
-Facial Recognition
-Computer Vision
-Machine Learning
-Attendance Automation
-📚 Open-Source & Educational Resources
+- Image Processing
+- Facial Recognition
+- Computer Vision
+- Machine Learning
+- Attendance Automation
 
-I maintain public repositories covering programming, interview preparation, coding practice, and technical learning.
+---
 
-Repository	Description
-Python Interview Questions	300+ Python interview questions and solutions
-Python Full Course	Python programming learning resources
-Product-Based Companies	400+ companies and startup reference collection
-Python Coding Questions	Python coding and problem-solving practice
-SQL Learning Material	SQL and database learning resources
-📈 GitHub Statistics
+## 📚 Open-Source & Educational Resources
+
+I maintain programming repositories and learning resources for developers, students, and software engineering aspirants.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kiransagar1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+<a href="https://github.com/kiransagar1/300-python-Interview-questions-and-solutions">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kiransagar1&repo=300-python-Interview-questions-and-solutions&theme=tokyonight&hide_border=true" alt="Python Interview Questions"/>
+</a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiransagar1&layout=compact&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/kiransagar1/python-full-course-material">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kiransagar1&repo=python-full-course-material&theme=tokyonight&hide_border=true" alt="Python Full Course"/>
+</a>
 
-<br/>
+<a href="https://github.com/kiransagar1/400-Product-based-Companies-and-Startups">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kiransagar1&repo=400-Product-based-Companies-and-Startups&theme=tokyonight&hide_border=true" alt="Product Based Companies"/>
+</a>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=kiransagar1&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/kiransagar1/Python-100-coding-questions-">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kiransagar1&repo=Python-100-coding-questions-&theme=tokyonight&hide_border=true" alt="Python Coding Questions"/>
+</a>
 
 </div>
 
-🎓 Education & Certifications
-Osmania University — 2020–2022
-Data Science with Python — SkillUp
-Python Basic — HackerRank
-🎯 Areas of Interest
-Software Engineering
-Python Development
-Artificial Intelligence
-Generative AI
-Machine Learning
-Computer Vision
-Data Science & Analytics
-Full Stack Development
-Technology Education
-Open-Source Communities
-Technology Entrepreneurship
-🤝 Let's Connect
+| Repository | Learning Resource |
+|---|---|
+| [Python Interview Questions](https://github.com/kiransagar1/300-python-Interview-questions-and-solutions) | 300+ Interview Questions & Solutions |
+| [Python Full Course](https://github.com/kiransagar1/python-full-course-material) | Python Programming Material |
+| [Product-Based Companies](https://github.com/kiransagar1/400-Product-based-Companies-and-Startups) | 400+ Companies & Startups |
+| [Python Coding Questions](https://github.com/kiransagar1/Python-100-coding-questions-) | Coding & Problem Solving |
+| [SQL Learning Material](https://github.com/kiransagar1/sql-Material) | SQL & Database Learning |
 
-I am always interested in connecting with developers, educators, students, technology enthusiasts, and people passionate about building meaningful solutions.
+---
 
-<p align="center">
- <a href="https://www.linkedin.com/in/kiran-sagar-a00a761b2/">
- <img src="https://img.shields.io/badge/LinkedIn-Kiran%20Sagar-0A66C2?style=for-the-badge&logo=linkedin" />
- </a>
- <a href="https://github.com/kiransagar1">
- <img src="https://img.shields.io/badge/GitHub-kiransagar1-181717?style=for-the-badge&logo=github" />
- </a>
- <a href="https://www.pythonlife.in/">
- <img src="https://img.shields.io/badge/Website-PythonLife-2563EB?style=for-the-badge&logo=googlechrome" />
- </a>
- <a href="mailto:pythonlifekiran@gmail.com">
- <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
- </a>
-</p>
+## 📈 GitHub Analytics
 
 <div align="center">
 
-💡 Learn Continuously. Build Practically. Share Knowledge. Create Impact.
+### GitHub Statistics
 
-Making technology education accessible and empowering the next generation of developers.
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kiransagar1&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
 
-<img src="https://komarev.com/ghpvc/?username=kiransagar1&label=Profile%20Views&color=2563EB&style=flat" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiransagar1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
+
+### Contribution Streak
+
+<img width="75%" src="https://streak-stats.demolab.com?user=kiransagar1&theme=tokyonight&hide_border=true" alt="Contribution Streak"/>
+
+### Contribution Graph
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kiransagar1&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+
+### GitHub Trophies
+
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=kiransagar1&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+## 🎓 Education & Certifications
+
+**Education**
+- Osmania University — 2020–2022
+
+**Certifications**
+- Data Science with Python — SkillUp
+- Python Basic — HackerRank
+
+---
+
+## 🎯 Professional Interests
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Software-Engineering-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Python-Development-3776AB?style=flat-square&logo=python"/>
+<img src="https://img.shields.io/badge/Artificial-Intelligence-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Generative-AI-10B981?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data-Science-F59E0B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Computer-Vision-EC4899?style=flat-square"/>
+<img src="https://img.shields.io/badge/Full_Stack-Development-0EA5E9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Technology-Education-6366F1?style=flat-square"/>
+<img src="https://img.shields.io/badge/Open-Source-181717?style=flat-square&logo=github"/>
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+### Let's Build Something Meaningful Together!
+
+<p>
+<a href="https://www.linkedin.com/in/kiran-sagar-a00a761b2/">
+<img src="https://img.shields.io/badge/LinkedIn-Kiran%20Sagar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/kiransagar1">
+<img src="https://img.shields.io/badge/GitHub-kiransagar1-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+<p>
+<a href="https://www.pythonlife.in/">
+<img src="https://img.shields.io/badge/PythonLife-Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+<a href="https://pythonlifeapp.com/">
+<img src="https://img.shields.io/badge/PythonLife-Mobile%20App-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</a>
+</p>
+
+<p>
+<a href="mailto:pythonlifekiran@gmail.com">
+<img src="https://img.shields.io/badge/Email-pythonlifekiran%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+### 💡 LEARN • BUILD • SHARE • GROW
+
+**Making Technology Education Accessible.  
+Empowering Developers. Creating Meaningful Impact.**
+
+<img src="https://komarev.com/ghpvc/?username=kiransagar1&label=TOTAL%20PROFILE%20VISITS&color=2563EB&style=for-the-badge" alt="Profile Visitors"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=120&section=footer" width="100%" alt="Footer"/>
 
 </div>
