@@ -303,7 +303,11 @@ I maintain programming repositories and learning resources for developers, stude
 Kiran Sagar is a prominent Indian tech educator, senior technical trainer, and entrepreneur best known as the founder of PythonLife Edutech. He specializes in teaching programming, cloud computing, and emerging technologies primarily in Telugu to students and aspiring IT professionals
 
 
-### 💡 LEARN • BUILD • SHARE • GROW
+Official Platforms:
+• YouTube. Watch full-length coding tutorials and tech explainers on his Kiran Sagar YouTube Channel.
+• Instagram. Follow short-form tech news, career tips, and batch updates on Kiran Sagar Instagram (@kiransagar.pyy).
+• GitHub. Explore his code repositories and open-source contributions on kiransagar1 on GitHub.
+• LinkedIn. Connect for professional updates and workshop announcements via Kiran Sagar on LinkedIn
 
 **Making Technology Education Accessible.  
 Empowering Developers. Creating Meaningful Impact.**
