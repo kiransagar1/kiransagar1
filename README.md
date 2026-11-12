@@ -1,125 +1,167 @@
+Kiran Sagar
+Founder & CEO at PythonLife | Software Development & Technology Educator
 
-# Hey Everyone! I'm [Kiransagar](https://github.com/kiransagar1) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
-<br><br>
+I am Kiran Sagar, Founder and CEO of PythonLife, a Telugu-first technology education platform focused on making programming, software development, and emerging technologies accessible through practical learning.
 
-<a href="https://www.linkedin.com/in/kiran-sagar-a00a761b2/">
-  <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/kiransagar1">
-  <img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/pythonlifetelugu/?hl=en">
-  <img align="left" alt="akd's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://www.youtube.com/channel/UC3Qe9c8dZqnjwcDD2vCZBKQ">
-  <img align="left" alt="akd's Youtube" width="100px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" />
-</a>
+I work at the intersection of technology education, software development, AI, and developer community building.
 
+My focus is on creating accessible technical learning resources, developing practical programming knowledge, and helping aspiring developers understand the technologies used in the software industry.
 
-<br><br>
+🌐 Website: https://www.pythonlife.in/
+💼 LinkedIn: https://www.linkedin.com/in/kiran-sagar-a00a761b2/
+💻 GitHub: https://github.com/kiransagar1
 
+Professional Highlights
 
-## <p align="center"><h4 align="center"><samp> An Python Developer, An Open Source Contributor, Youtuber  & A Competitive Programmer, online Trainer </samp></h4></p>
+Founder & CEO of PythonLife.
+109 public GitHub repositories.
+3,500+ GitHub followers (public profile snapshot).
+22,700+ LinkedIn followers (public snapshot).
+1,191 LinkedIn posts (public snapshot).
+Building technology education resources for Telugu-speaking learners.
+Creating and maintaining programming and interview preparation repositories.
+Experience with educational and computer vision project development.
+PythonLife — Technology Education
 
-<div>
-<img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
-  <br>
-  
-- 🔭 I’m currently working on PythonLife
-- 🌱 I’m currently learning Artificial Intelligence
-- 👯 I’m looking to collaborate on Youtube
-- 💬 Ask me about Computer Vision
-- 📫 How to reach me: pythonlifekiran@gmail.com
-  <br>
-</div>
+PythonLife is a Telugu-first EdTech platform established in 2020.
 
-##
+Our focus is to simplify technology education through structured courses, practical projects, programming resources, and career-oriented training.
 
-<div>
-<
+PythonLife Published Impact
 
-##
-<h3><b><samp>Skills and Languages</samp></b></h3>
+90K+ Happy Students
+300+ Batches Conducted
+48K+ Students Placed
+1M+ Telugu Student Community
+100+ Free Software Courses
+Figures published by PythonLife on its website.
 
-![Rapspberry Pi](https://img.shields.io/badge/Raspberry_pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+Website: https://www.pythonlife.in/
 
-![C](https://img.shields.io/badge/C-27338e?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+Technical Expertise & Interests
 
-![Java](https://img.shields.io/badge/Java-013243?style=flat-square&logo=Java&logoColor=white)
+Programming
 
-<span>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/c.svg" alt="drawing" width="50"/>
+Python
+Java
+JavaScript
+SQL
+Backend & Web Development
 
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/raspberry-pi.svg" alt="drawing" width="50"/>
+Django
+Flask
+REST API Development
+Full Stack Development
+Data Science & Analytics
 
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/python-5.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/mysql-6.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/readme.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/html.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/css.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/javascript.svg" alt="drawing" width="50"/>
+Python for Data Analysis
+NumPy
+Pandas
+Data Visualization
+Power BI
+Artificial Intelligence
 
-  </span>
-    
-##
-<h3><b><samp>Tools and Platform</samp></b></h3>
+Machine Learning
+Generative AI
+Computer Vision
+Object Detection
+AI Applications
+Databases
 
-![SmartThings](https://img.shields.io/badge/SmartThings-777BB4?style=flat-square&logo=SmartThings&logoColor=white)
-![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-!
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-![Firebase](https://img.shields.io/badge/Firebase-ffcb2c?style=flat-square&logo=Firebase&logoColor=DD1100)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white)
-![BootStrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![HackerRank](https://img.shields.io/badge/HackerRank-107C10?style=flat-square&logo=HackerRank&logoColor=black)
-![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)
-  
-<span>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bootstrap-5-1.svg" alt="drawing" width="50"/>
+MySQL
+SQL
+Relational Database Concepts
+Developer Tools
 
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/git-icon.svg" alt="drawing" width="40"/>
+Git
+GitHub
+VS Code
+Jupyter Notebook
+Technical Projects
 
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/google-cloud-1.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/hackerrank.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/visual-studio-code.svg" alt="drawing" width="40"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/heroku-4.svg" alt="drawing" width="40"/>
-</span>
-<hr> 
-  
+1. Third Eye — Real-Time Object Detection for Visually Impaired People
 
+An assistive technology project designed to detect and classify objects from live camera input and provide audio feedback to support visually impaired users.
 
-  
-### Github Stats
-  
-<p align="center">
-  <a href="https://github.com/kiransagar1"><span>
-    <img height="48%" src="https://github-readme-stats.vercel.app/api?username=kiransagar1&count_private=true&show_icons=true&theme=tokyonight&&include_all_commits=true"/>
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amandewatnitrr&theme=tokyonight" />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amandewatnitrr&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=tokyonight"/>
-    </span></a>
-</p>
-  
-<br>
-  
-### 🏆 GitHub Profile Trophy:
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=kiransagar1&column=8&theme=onedark&no-frame=true&no-bg=true"/>
-</a>
-</p>
+Focus areas:
 
-### 📈 GitHub Activity:
-  <a href="https://github.com/kiransagar1/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kiransagar1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+Computer Vision
+Object Detection
+Machine Learning
+Real-Time Image Processing
+Assistive Technology
+2. Real-Time Face & Skin Texture Attendance Tracking System
 
+A computer vision-based attendance management project exploring facial recognition and skin texture analysis for automated identification and attendance recording.
 
+Focus areas:
 
-<br>  
+Image Processing
+Facial Recognition
+Computer Vision
+Machine Learning
+Attendance Automation
+Open-Source & Learning Resources
 
+I maintain public repositories covering programming, interview preparation, and technical learning.
 
+Featured Repositories
+
+300+ Python Interview Questions and Solutions
+
+Python interview preparation and programming solutions.
+
+https://github.com/kiransagar1/300-python-Interview-questions-and-solutions
+
+Python Full Course Material
+
+Python learning resources and educational material.
+
+https://github.com/kiransagar1/python-full-course-material
+
+400+ Product-Based Companies and Startups
+
+A reference collection for software job seekers.
+
+https://github.com/kiransagar1/400-Product-based-Companies-and-Startups
+
+Python Coding Questions
+
+Programming practice and problem-solving resources.
+
+https://github.com/kiransagar1/Python-100-coding-questions-
+
+SQL Learning Material
+
+SQL and database learning resources.
+
+https://github.com/kiransagar1/sql-Material
+
+Education & Certifications
+
+Osmania University — 2020–2022.
+Data Science with Python — SkillUp.
+Python Basic — HackerRank.
+Areas of Interest
+
+Software Engineering
+Python Development
+Artificial Intelligence
+Generative AI
+Data Science
+Computer Vision
+Developer Education
+Open-Source Communities
+Technology Entrepreneurship
+Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/kiran-sagar-a00a761b2/
+GitHub: https://github.com/kiransagar1
+Website: https://www.pythonlife.in/
+PythonLife App: https://pythonlifeapp.com/
+Email: pythonlifekiran@gmail.com
+My Philosophy
+
+Learn continuously. Build practically. Share knowledge. Create impact.
+
+I believe technology education should be accessible, practical, and meaningful. My mission through PythonLife is to help more learners develop the technical skills and confidence needed to participate in the technology industry.
