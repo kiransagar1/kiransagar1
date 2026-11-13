@@ -118,15 +118,15 @@ My mission is to make programming and emerging technology education accessible t
 |---|---|
 | Programming | Python, Java, JavaScript |
 | Web Development | HTML, CSS, Full Stack |
-| Backend | Django, Flask, REST APIs |
-| Data Science | NumPy, Pandas, Analytics |
-| Artificial Intelligence | AI, Machine Learning |
-| Generative AI | GenAI, AI Applications |
-| Databases | SQL, MySQL |
+| Backend | Django, Flask, REST APIs, FastAPI |
+| Data Science | NumPy, Pandas, Analytics, Pyspark, Matplotlib, Plotly |
+| Artificial Intelligence | AI, Machine Learning, Deep Learning, NLP |
+| Generative AI | GenAI, Prompt Engineering, AI Applications |
+| Databases | SQL, MySQL, SQLLite, MongoDB |
 | Analytics | Power BI |
 | Engineering | DevOps, DevSecOps |
 
-**Our Vision:** Making quality technology education accessible, practical, and career-focused for Telugu-speaking learners.
+** Our Vision:** Making quality technology education accessible, practical, and career-focused for Telugu-speaking learners.
 
 🌐 https://www.pythonlife.in/
 
