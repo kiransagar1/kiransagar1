@@ -214,26 +214,6 @@ A computer vision-based attendance management project exploring facial recogniti
 
 I maintain programming repositories and learning resources for developers, students, and software engineering aspirants.
 
-<div align="center">
-
-<a href="https://github.com/kiransagar1/300-python-Interview-questions-and-solutions">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kiransagar1&repo=300-python-Interview-questions-and-solutions&theme=tokyonight&hide_border=true" alt="Python Interview Questions"/>
-</a>
-
-<a href="https://github.com/kiransagar1/python-full-course-material">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kiransagar1&repo=python-full-course-material&theme=tokyonight&hide_border=true" alt="Python Full Course"/>
-</a>
-
-<a href="https://github.com/kiransagar1/400-Product-based-Companies-and-Startups">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kiransagar1&repo=400-Product-based-Companies-and-Startups&theme=tokyonight&hide_border=true" alt="Product Based Companies"/>
-</a>
-
-<a href="https://github.com/kiransagar1/Python-100-coding-questions-">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kiransagar1&repo=Python-100-coding-questions-&theme=tokyonight&hide_border=true" alt="Python Coding Questions"/>
-</a>
-
-</div>
-
 | Repository | Learning Resource |
 |---|---|
 | [Python Interview Questions](https://github.com/kiransagar1/300-python-Interview-questions-and-solutions) | 300+ Interview Questions & Solutions |
